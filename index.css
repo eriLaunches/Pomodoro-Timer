@@ -1,0 +1,39 @@
+#app {
+  text-align: center
+}
+
+h1 {
+  font-size: 50;
+  color: #326273
+}
+
+#timer {
+  font-size: 150px;
+  outline-style: ridge;
+  outline-color: #326273;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 30px
+
+}
+
+#buttons > button {
+  font-size: 18px;
+  border-radius: 8px;
+  color:white
+}
+
+#start {
+  background-color:#2374AB;
+  margin-right: 10px
+}
+
+#pause {
+  background-color:#B48291;
+  margin-right: 10px
+
+}
+
+#reset {
+  background-color:#70A9A1;
+}
